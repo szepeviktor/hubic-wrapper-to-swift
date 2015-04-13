@@ -6,6 +6,11 @@ client.
 
 **This program is not developed, nor maintained by OVH. Use at your own risk!**
 
+How to use video
+----------------
+
+![How to use video](img/howtovideo.png)
+
 Requirements
 ------------
 
