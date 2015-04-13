@@ -9,7 +9,7 @@ client.
 How to use video
 ----------------
 
-![How to use video](img/howtovideo.png)
+[![How to use video](img/howtovideo.png)](https://www.youtube.com/watch?v=yr9D05CHBbA)
 
 Requirements
 ------------
